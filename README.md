@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @wildanfdh
-- 👀 I’m interested in BackEnd
-- 🌱 I’m currently learning Node and Express JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Halo semua! 
 
-<!---
-wildanfdh/wildanfdh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Perkenalkan nama saya **Muhammad Wildan Fadhilah**.
+
+Saya seorang **Mahasiswa** di **Universitas Pembangunan Jaya**.
+
+Currently taking an internship at **PT Siaga Abdi Utama** as Junior Fullstack Developer
+
+
+<p align="left">
+<a href="https://github.com/gilangadhan">
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wildanfdh&layout=compact&langs_count=8&theme=buefy"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wildanfdh&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wildanfdh&theme=noctis-minimus&border_radius=10)](https://git.io/streak-stats)
+
+### 🔍 Find Me at 
+<p> 
+  <a href="https://www.linkedin.com/in/muhammad-wildan-fadhilah/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://www.instagram.com/wildanfhd/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
+</p>
+
+
+![Visitor Count](https://profile-counter.glitch.me/wildanfdh/count.svg)
