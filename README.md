@@ -6,6 +6,7 @@ Saya seorang **Mahasiswa** di **Universitas Pembangunan Jaya**.
 
 Currently taking an internship at **PT Siaga Abdi Utama** as Junior Fullstack Developer
 
+---
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
@@ -14,7 +15,11 @@ Currently taking an internship at **PT Siaga Abdi Utama** as Junior Fullstack De
 </a>
 </p>
 
+---
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wildanfdh&theme=noctis-minimus&border_radius=10)](https://git.io/streak-stats)
+
+---
 
 ### 🔍 Find Me at 
 <p> 
@@ -25,6 +30,3 @@ Currently taking an internship at **PT Siaga Abdi Utama** as Junior Fullstack De
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
 </p>
-
-
-![Visitor Count](https://profile-counter.glitch.me/wildanfdh/count.svg)
